@@ -19,12 +19,12 @@ In this project, We are creating a classification model to accurately identify v
 
 Prior to initiating the project, verify that all necessary dependencies are installed.
 
-Method : Using requirements.txt
-Open a terminal or command prompt.
+Method : 
+1. Open a terminal or command prompt.
 
-Navigate to the project directory.
+2. Navigate to the directory where your project is located.
 
-Run the following command to install the dependencies listed in the requirements.txt file:
+3. Execute the following command to install the required dependencies specified in the requirements.txt file:
 
 ```
     pip install -r requirements.txt
