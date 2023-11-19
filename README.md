@@ -21,7 +21,9 @@ Prior to initiating the project, verify that all necessary dependencies are inst
 
 
 ### Dataset Overview
-The FashionMNIST dataset consists of 70,000 (Train 60,000 | Test 10,000) grayscale images of clothing items categorized into 10 classes. Each image is a 28x28 pixel representation.
+Prior to executing the code, ensure your data is structured as specified below and locate it within the "Data" directory:
+
+Data - https://drive.google.com/drive/folders/1adq5kWrFdUy3TnWCA3Is3e7n1DT8YiGX?usp=sharing
 
 ### Models Trained 
 - Results 
