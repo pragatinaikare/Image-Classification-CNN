@@ -7,7 +7,6 @@
 - Instructions to Run the Code
 - Dataset Overview
 - Models Trained
-- Results and Evaluation 
 - Model Interpretability 
 - Project Report
 
