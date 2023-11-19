@@ -43,7 +43,7 @@ Data - https://drive.google.com/drive/folders/1adq5kWrFdUy3TnWCA3Is3e7n1DT8YiGX?
 
 | Model                 | Best Parameters                           | Accuracy |
 |-----------------------|-------------------------------------------|----------|
-| Convolutional Neural Network (CNN) | filters_layer1 = 64, filters_layer2 = 128, filters_layer3 = 256, kernel_size = (3,3)  | 91.97%   |
+| Convolutional Neural Network (CNN) | filters_layer1 = 64, filters_layer2 = 128, filters_layer3 = 256, kernel_size = (3,3)  | 92.28%   |
 | Random Forest         | Default        | 86.85%   |
 | K-Nearest Neighbors   | Default        | 86.26%   |
 | Decision Tree         | Default        | 76.92%   |
