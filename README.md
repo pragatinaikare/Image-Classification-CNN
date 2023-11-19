@@ -27,7 +27,6 @@ Navigate to the project directory.
 Run the following command to install the dependencies listed in the requirements.txt file:
 
 ```
-bash
     pip install -r requirements.txt
 ```
 
