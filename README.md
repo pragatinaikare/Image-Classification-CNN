@@ -19,7 +19,7 @@ In this project, We are creating a classification model to accurately identify v
 
 Prior to initiating the project, verify that all necessary dependencies are installed.
 
-Method : 
+  #### Method : 
 1. Open a terminal or command prompt.
 
 2. Navigate to the directory where your project is located.
