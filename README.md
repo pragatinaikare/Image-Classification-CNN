@@ -14,7 +14,7 @@
 
 
 ### Introduction
----
+-----
 In this project, We are creating a classification model to accurately identify various articles of clothing using the FashionMNIST dataset, enabling accurate identification and categorization of various articles of clothing.
 
 ### Instructions to Run the Code
