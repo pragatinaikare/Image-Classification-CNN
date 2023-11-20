@@ -10,6 +10,12 @@
 - Model Interpretability 
 - Project Report
 
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Introduction <a name="introduction"></a>
 In this project, We are creating a classification model to accurately identify various articles of clothing using the FashionMNIST dataset, enabling accurate identification and categorization of various articles of clothing.
