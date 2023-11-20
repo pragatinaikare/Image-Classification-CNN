@@ -46,7 +46,7 @@ Data - https://drive.google.com/drive/folders/1adq5kWrFdUy3TnWCA3Is3e7n1DT8YiGX?
 | Random Forest         | Default        | 86.85%   |
 | K-Nearest Neighbors   | Default        | 86.26%   |
 | Decision Tree         | Default        | 76.92%   |
-| SVM         | Default        | %   |
+| SVM         | Default        | 90%   |
 
 
 
