@@ -3,12 +3,6 @@
 #### BLOG LINK - 
 
 ## Table of Contents
-- Introduction
-- Instructions to Run the Code
-- Dataset Overview
-- Models Trained
-- Model Interpretability 
-- Project Report
 
 1. [Introduction](#introduction)
 2. [Instructions to Run the Code](#installation)
