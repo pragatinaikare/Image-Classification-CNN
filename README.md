@@ -18,7 +18,11 @@ In this project, We are creating a classification model to accurately identify v
 
 Prior to initiating the project, verify that all necessary dependencies are installed.
 
-  #### Method : 
+ #### Method 1 : 
+
+Cloab Link: 
+ 
+  #### Method 2 : 
 1. Open a terminal or command prompt.
 
 2. Navigate to the directory where your project is located.
@@ -43,10 +47,8 @@ Data - https://drive.google.com/drive/folders/1adq5kWrFdUy3TnWCA3Is3e7n1DT8YiGX?
 | Model                 | Best Parameters                           | Accuracy |
 |-----------------------|-------------------------------------------|----------|
 | Convolutional Neural Network (CNN) | filters_layer1 = 64, filters_layer2 = 128, filters_layer3 = 256, kernel_size = (3,3)  | 92.07%   |
-| Random Forest         | Default        | 86.85%   |
-| K-Nearest Neighbors   | Default        | 86.26%   |
-| Decision Tree         | Default        | 76.92%   |
-| SVM         | Default        | 90%   |
+| Random Forest         | Default        | 86.7%   |
+| K-Nearest Neighbors   | Default        | 86.9%   |
 
 
 
