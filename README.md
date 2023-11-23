@@ -66,5 +66,5 @@ In the provided image above, the Grad-CAM heatmap illustrates the regions contri
 
 ## Project Report <a name="license"></a>
 
-Refer to the project_report.pdf file in this repository for a comprehensive report detailing the data preparation, exploratory data analysis, model selection, evaluation metrics, interpretability, and business insights.
+Refer to the Project_report.pdf file in this repository for a comprehensive report detailing the data preparation, exploratory data analysis, model selection, evaluation metrics, interpretability, and business insights.
 
