@@ -1,6 +1,6 @@
 # Clothing Classification Using FashionMNIST Dataset
 
-#### BLOG LINK - 
+#### BLOG LINK - https://medium.com/@gpttamu/a-comparative-analysis-of-machine-learning-models-for-image-classification-of-fashion-items-using-7ae056802d3e
 
 ## Table of Contents
 
